@@ -1,0 +1,4 @@
+Class_Number Numeric
+Number_Of_Animal_Species_In_Class Numeric
+Class_Type character -- The actual word description of the class
+Animal_Names character -- The list of the animals that fall in the category of the class
